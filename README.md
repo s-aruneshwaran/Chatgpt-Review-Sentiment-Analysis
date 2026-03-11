@@ -114,12 +114,12 @@ chatgpt-review-sentiment-analysis
 ├── notebooks
 │   └── chatgpt_review_analysis.ipynb
 │
-├── images
-│   ├── sentiment_distribution.png
-│   ├── positive_phrases.png
-│   ├── negative_phrases.png
-│   ├── user_problems.png
-│   └── sentiment_trends.png
+├── images of plots
+│   ├── common problems faced by users in chatgpt.png
+│   ├── sentiment distribution of chatgpt reviews.png
+│   ├── sentiment trends over time.png
+│   ├── top common phrases in negative reviews.png
+│   └── top common phrases in positive reviews.png
 │
 ├── requirements.txt
 └── README.md
