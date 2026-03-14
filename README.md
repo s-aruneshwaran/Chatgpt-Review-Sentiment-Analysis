@@ -106,7 +106,7 @@ The project includes several visualizations:
 ## Repository Structure
 
 ```
-chatgpt-review-sentiment-analysis
+Chatgpt-Review-Sentiment-Analysis
 │
 ├── data
 │   └── chatgpt_reviews.csv
