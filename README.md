@@ -112,7 +112,7 @@ Chatgpt-Review-Sentiment-Analysis
 │   └── chatgpt_reviews.csv
 │
 ├── notebooks
-│   └── ChatGPT Review Analysis.ipynb
+│   └── ChatGPT_Review_Analysis.ipynb
 │
 ├── images of plots
 │   ├── common problems faced by users in chatgpt.png
